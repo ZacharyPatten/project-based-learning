@@ -155,6 +155,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## C#:
 
+- [dotnet-console-games](https://github.com/dotnet/dotnet-console-games): Game Examples Implemented as .NET Console Applications
 - [Learn C# By Building a Simple RPG Game](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
 - [Create a Rogue-like game in C#](https://roguesharp.wordpress.com/)
 - [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/)
